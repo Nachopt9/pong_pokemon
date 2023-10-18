@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemPaddle
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ upSpeed()
+comment3.params=
+comment3.target=void\ edge()
+comment4.params=
+comment4.target=void\ checkIfIsInContactWithBallZero()
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+numComments=6
